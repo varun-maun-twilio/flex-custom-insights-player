@@ -1,0 +1,30 @@
+.custom-flex-player-wrapper{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+    background: #243658;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-flex-player-dismiss-btn{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.custom-flex-player-dismiss-btn i{
+    display: block;
+    color: #fff;
+    padding: 1rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.custom-flex-player-no-record{
+    color: #fff;
+    font-size: 1.2rem;
+}
